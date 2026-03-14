@@ -307,7 +307,6 @@ Possible improvements:
 * Docker containerization
 * Advanced role-based authorization
 * Payment gateway integration
-* Unit testing
 
 ---
 
